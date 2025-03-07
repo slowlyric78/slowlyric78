@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slowlyric78
-- 👀 I’m interested in Data, Cloud, Python/PySpark
+- 👀 I’m interested in Analytic, GenAI, AI, Data, Cloud, Python, TypeScript, Spark
 - 🌱 I’m currently learning Python/Knime
 - 💞️ I’m looking to collaborate on Cloud Data Solutions
 - 📫 How to reach me ...
