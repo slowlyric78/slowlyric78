@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @slowlyric78
-- 👀 I’m interested in Analytic, GenAI, AI, Data, Cloud, Python, TypeScript, Spark
-- 🌱 I’m currently learning Python/Knime
-- 💞️ I’m looking to collaborate on Cloud Data Solutions
+- 👀 I’m interested in Analytics, GenAI, AI, Business Intelligence, Data, Cloud, Python, TypeScript, Spark
+- 🌱 I’m currently learning TypeScript, CDK, Agentic frameworks
+- 💞️ I’m looking to collaborate on Anlaytics and Data Solutions
 - 📫 How to reach me ...
 
 <!---
